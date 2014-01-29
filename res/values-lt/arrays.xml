@@ -15,38 +15,38 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string-array name="microphone_recording_presets">
-    <item>Original</item>
-    <item>Equilibrat</item>
-    <item>Alta sensibilitat</item>
-    <item>Entorn sorollós</item>
+    <item>Originalas</item>
+    <item>Balansas</item>
+    <item>Didelis jautrumas</item>
+    <item>Garsi aplinka</item>
   </string-array>
   <string-array name="headphone_modes">
-    <item>Estudi</item>
-    <item>Habitació</item>
-    <item>Habitació gran</item>
-    <item>Teatre</item>
+    <item>Studija</item>
+    <item>Kambarys</item>
+    <item>Didelis kambarys</item>
+    <item>Scena</item>
   </string-array>
   <string-array name="equalizer_loudness_modes">
-    <item>Inhabilitat</item>
-    <item>El més dèbil</item>
-    <item>Més dèbil</item>
-    <item>Dèbil</item>
-    <item>Fort</item>
-    <item>Més fort</item>
-    <item>El més fort</item>
+    <item>Išjungta</item>
+    <item>Silpniausia</item>
+    <item>Silpnesnė</item>
+    <item>Silpna</item>
+    <item>Stipri</item>
+    <item>Stipresnė</item>
+    <item>Stipriausia</item>
   </string-array>
   <string-array name="compression_modes">
-    <item>Lleuger</item>
-    <item>Mitjà</item>
-    <item>Extrem</item>
+    <item>Silpnas</item>
+    <item>Vidutinis</item>
+    <item>Stiprus</item>
   </string-array>
   <string-array name="bassboost_modes">
-    <item>Lleuger</item>
-    <item>Mitjà</item>
-    <item>Extrem</item>
+    <item>Silpnas</item>
+    <item>Vidutinis</item>
+    <item>Stiprus</item>
   </string-array>
   <string-array name="wm8994_bassboost_modes">
-    <item>Estàndard</item>
-    <item>Altaveus petits</item>
+    <item>Standartinis</item>
+    <item>Maži garsiakalbiai</item>
   </string-array>
 </resources>
