@@ -15,10 +15,10 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string-array name="microphone_recording_presets">
     <item>מקורי</item>
-    <item>Balanced</item>
+    <item>מאוזן</item>
     <item>רגישות גבוהה</item>
     <item>סביבה רועשת</item>
   </string-array>
@@ -29,7 +29,7 @@
     <item>במה</item>
   </string-array>
   <string-array name="equalizer_loudness_modes">
-    <item>Disabled</item>
+    <item>מושבת</item>
     <item>הכי חלש</item>
     <item>חלש יותר</item>
     <item>חלש</item>
@@ -37,8 +37,18 @@
     <item>חזק יותר</item>
     <item>הכי חזק</item>
   </string-array>
+  <string-array name="compression_modes">
+    <item>חלש</item>
+    <item>בינוני</item>
+    <item>חזק מאוד</item>
+  </string-array>
+  <string-array name="bassboost_modes">
+    <item>קלוש</item>
+    <item>בינוני</item>
+    <item>חזק מאוד</item>
+  </string-array>
   <string-array name="wm8994_bassboost_modes">
-    <item>Standard</item>
+    <item>רגיל</item>
     <item>רמקולים קטנים</item>
   </string-array>
 </resources>
